@@ -11,7 +11,7 @@
 ### 2024 Goal: Developing applications, mastering the use of generative AI 👨‍💻
 
 <details>
-<summary>My Desktop Setup</summary>
+<summary>:computer: My Desktop Setup :computer:</summary>
 
 <table border="1">
 <tr>
@@ -73,16 +73,15 @@
 #### Using
 
 <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
 
 #### Tools 
 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/githubpages-222222?style=flat-square&logo=githubpages&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/canva-0E1128?style=flat-square&logo=canva&logoColor=00C4CC"/>
 
 #### Interested in
@@ -91,6 +90,7 @@
 <img src="https://img.shields.io/badge/android-ffffff?style=flat-square&logo=android&logoColor=34A853"/>
 
 #### Contact
-<img src="https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F"/>
+
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/seonghyun__k)
 
 </div>
