@@ -2,13 +2,14 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&text=404%20Not%20Found&section=header&textBg=false&fontSize=40&fontAlignY=30&animation=twinkling&stroke=234794&fontColor=66023C&strokeWidth=1&desc=Unknown%20Error&descAlignY=50" />
 
-## ☺ 자.기.소.개 by 김성현 ☺
+## Intro.
 
 ### Major : Physics
 
-### Hobby : Game, Anything online
+### Hobby : exercise, game, something online
 
-### 2024 Goal: Developing applications, mastering the use of generative AI 👨‍💻
+### 2024 Goal: Developing applications, Mastering the use of generative AI 👨‍💻
+
 
 <details>
 <summary>:computer: My Desktop Setup :computer:</summary>
