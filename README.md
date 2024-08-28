@@ -23,27 +23,27 @@
 <tr>
 <td align="center">CPU</td>
 <td align="center">Intel Core i7-4790</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">RAM</td>
 <td align="center">16GB DDR4</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">GPU</td>
 <td align="center">AORUS RTX 2080</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">SSD</td>
 <td align="center">120TB SATA SSD</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">Monitor</td>
 <td align="center">Dell U2718Q</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 <tr>
 <td align="center">Keyboard</td>
@@ -63,13 +63,15 @@
 <tr>
 <td align="center">Mouse</td>
 <td align="center">Logitech G304</td>
-<td align="center">---</td>
+<td align="center">-</td>
 </tr>
 </table>
 
 </details>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KSH7-7&theme=ocean_dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSH7-7&layout=donut&theme=ocean_dark&show_icons=true" />
+
 
 #### Using
 
