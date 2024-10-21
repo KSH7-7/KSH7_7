@@ -23,12 +23,22 @@
 <tr>
 <td align="center">CPU</td>
 <td align="center">Intel Core i7-4790</td>
-<td align="center">-</td>
+<td align="center">
+<details>
+<summary>Soon</summary>
+<li>Ultra 7 265K</li>
+</details>
+</td>
 </tr>
 <tr>
 <td align="center">RAM</td>
 <td align="center">16GB DDR4</td>
-<td align="center">-</td>
+<td align="center">
+<details>
+<summary>Soon</summary>
+<li>64GB DDR5</li>
+</details>
+</td>
 </tr>
 <tr>
 <td align="center">GPU</td>
@@ -38,7 +48,12 @@
 <tr>
 <td align="center">SSD</td>
 <td align="center">120TB SATA SSD</td>
-<td align="center">-</td>
+<td align="center">
+<details>
+<summary>Soon</summary>
+<li>2+2TB M.2 SSD</li>
+</details>
+</td>
 </tr>
 <tr>
 <td align="center">Monitor</td>
@@ -52,9 +67,9 @@
 <details>
 <summary>Spec.</summary>
 <ul>
-<li>Keycaps: GMK Lavender</li>
+<li>Keycaps: FBB Good Night</li>
 <li>Switches: SWK Neon</li>
-<li>PCB: PC</li>
+<li>PCB: FR4</li>
 <li>Layout: ANSI, 65%</li>
 </ul>
 </details>
@@ -63,7 +78,12 @@
 <tr>
 <td align="center">Mouse</td>
 <td align="center">Logitech G304</td>
-<td align="center">-</td>
+<td align="center">
+<details>
+<summary>Soon</summary>
+<li>Laser Viper V3 Pro</li>
+</details>
+</td>
 </tr>
 </table>
 
@@ -77,9 +97,14 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/spring-FFFFFF?style=flat-square&logo=spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/mariadb-FFFFFF?style=flat-square&logo=mariadb&logoColor=003545"/>
+<img src="https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
+#### Before
+<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
 
 #### Tools 
 
