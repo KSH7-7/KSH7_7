@@ -99,32 +99,34 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSH7-7&layout=donut&theme=ocean_dark&show_icons=true" />
 
 
-#### Using
+#### I've used
 
 <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadb&logoColor=003545"/>
-<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C++-FFFFFF?style=flat&logo=c%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=Bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat&logo=mariadb&logoColor=003545"/>
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=ffffff"/>
 
 #### Tools 
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=#F05032"/>
-<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Canva-0E1128?style=flat-square&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat&logo=git&logoColor=#F05032"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Canva-0E1128?style=flat&logo=canva&logoColor=00C4CC"/>
 
 #### Interested in
 
-<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Android-ffffff?style=flat-square&logo=android&logoColor=34A853"/>
-<img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=F05138"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat&logo=unrealengine&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Android-ffffff?style=flat&logo=android&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=swift&logoColor=F05138"/>
 
 #### Contact
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/seonghyun__k)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=E4405F)](https://instagram.com/seonghyun__k)
 
 </div>
