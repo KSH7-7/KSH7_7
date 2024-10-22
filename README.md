@@ -2,6 +2,12 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=auto&text=404%20Not%20Found&section=header&textBg=false&fontSize=40&fontAlignY=30&animation=twinkling&stroke=234794&fontColor=66023C&strokeWidth=1&desc=Unknown%20Error&descAlignY=50" />
 
+<p align="right">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKSH7-7&count_bg=%2392A8D1&title_bg=%23F7CAC9&icon=github.svg&icon_color=%23212830&title=HIT&edge_flat=false"/>
+  </a>
+</p>
+
 ## Intro.
 
 ### Major : Physics
@@ -47,7 +53,7 @@
 </tr>
 <tr>
 <td align="center">SSD</td>
-<td align="center">120TB SATA SSD</td>
+<td align="center">120GB SATA SSD</td>
 <td align="center">
 <details>
 <summary>Soon</summary>
@@ -96,29 +102,29 @@
 #### Using
 
 <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/spring-FFFFFF?style=flat-square&logo=spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/mariadb-FFFFFF?style=flat-square&logo=mariadb&logoColor=003545"/>
-<img src="https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1"/>
-
-#### Before
-<img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Spring-FFFFFF?style=flat-square&logo=spring&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadb&logoColor=003545"/>
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=ffffff"/>
 
 #### Tools 
 
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/>
-<img src="https://img.shields.io/badge/canva-0E1128?style=flat-square&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=#F05032"/>
+<img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Canva-0E1128?style=flat-square&logo=canva&logoColor=00C4CC"/>
 
 #### Interested in
 
-<img src="https://img.shields.io/badge/unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/android-ffffff?style=flat-square&logo=android&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=unrealengine&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Android-ffffff?style=flat-square&logo=android&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/Swift-ffffff?style=flat-square&logo=swift&logoColor=F05138"/>
 
 #### Contact
 
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/seonghyun__k)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/seonghyun__k)
 
 </div>
